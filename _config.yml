@@ -1,12 +1,12 @@
 # Site
-repository: nellrj92/nellrj92.github.io
+repository: c/nellrj92.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Roberto De Filippo
+name: Nelly-Bean
 title: Neuroscience PhD
 # email: brett.h@email.co.uk
 # website: www.github.com/sproogen/resume-theme
@@ -16,8 +16,8 @@ darkmode: false
 
 # Social links
 # Social links
-twitter_username: RobertoDeF_
-github_username:  RobertoDF
+# twitter_username: RobertoDeF_
+github_username:  nellrj92
 # dribbble_username:
 # facebook_username:
 # flickr_username:
