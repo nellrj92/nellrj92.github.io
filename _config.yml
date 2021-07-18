@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Nelly-Bean
-title: Neuroscience PhD
+name: Eleanor Reeve-Jones
+title: Content Marketer, Copy Writer
 # email: brett.h@email.co.uk
 # website: www.github.com/sproogen/resume-theme
 
@@ -22,11 +22,11 @@ github_username:  nellrj92
 # facebook_username:
 # flickr_username:
 # instagram_username: jameswgrant
-linkedin_username: roberto-de-filippo
+linkedin_username: eleanor-reeve-jones-74167290
 # pinterest_username:
 # youtube_username:
 # googleplus_username:
-orcid_username: 0000-0002-4085-9114
+# orcid_username: 0000-0002-4085-9114
 
 # Additional icon links
 #additional_links:
@@ -62,19 +62,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Schmitz lab, Charité-Universitätsmedizin Berlin
+        title: Chatterbug, Berlin
         link: https://schmitz.neurocure.de/
         # link_text: boringcompany.com
-        sub_title: PhD student
-        caption: January 2016 - 2021
+        sub_title: Marketing and SEO 
+        caption: June 2019 - 2021
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            My PhD project is focused on serotonergic modulation of slow oscillations in entorhinal cortex, it led to the publication 
-            "Somatostatin interneurons activated by 5-HT<sub>2A</sub> receptor suppress slow oscillations in medial entorhinal cortex (Elife, 2021)". 
-            We identified a novel mechanism by which serotonin is able to alter cortical network activity. During the course of this project I employed the following techniques: 
-            in vitro patch clamp, silicone probe recording in anesthetized mice, optogenetics, 
-            pharmacology, immunohistochemistry and confocal imaging. I also became proficient with Matlab and Python for data analysis.
+            Solely responsible for the company’s blog. Knowlegde of Google Analytics and Google Console. Took part in editing and recording a podcast. Spearheaded a blog audit. 
+            Responsibilities include:
+            - Writing and editing blog articles with keywords, H1 titles, meta descriptions and 
+            - Backlink outreach
+            - Writing email marketing copy
+            - Creating Out of Home Campaigns
+            - Posting on social media platforms
+            - Writing Google Ads copy
+
 
       - layout: right
         title: Poulet lab, Max Delbrück Center (MDC)
